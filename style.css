@@ -71,7 +71,7 @@
             flex-direction: column;
             margin-left: 200px;
             padding-bottom: 100px;
-            background-color: rgba(19,25,35,255);
+            background-color: rgba(55,55,55,255);
         }
 
         main h1 {
@@ -108,7 +108,7 @@
 
         main .titles li{
             width: calc(100% /4);
-            border-left: solid black 1px;
+            border-left: solid white 1px;
             margin: 15px 0;
         }
 
@@ -143,13 +143,13 @@
         padding: 5px;
     }
 
+    footer .left {
+        padding-left: 10px;
+    }
 
-
-
-
-
-
-
+    footer .right {
+        padding-right: 10px;
+    }
 
 /* DEBUG */
 
